@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CICcoin
+Comment=CICcoin P2P Cryptocurrency
+Comment[fr]=CICcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CICcoin, eşten eşe kriptografik sanal para birimi
+Exec=CICcoin-qt %u
+Terminal=false
+Type=Application
+Icon=CICcoin128
+MimeType=x-scheme-handler/CICcoin;
+Categories=Office;Finance;

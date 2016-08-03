@@ -1,0 +1,15 @@
+CICcoin               ICON    "pixmaps/CICcoin.ico"
+
+#include "wx/msw/wx.rc"
+
+check                 ICON    "pixmaps/check.ico"
+send16                CICMAP  "pixmaps/send16.bmp"
+send16mask            CICMAP  "pixmaps/send16mask.bmp"
+send16masknoshadow    CICMAP  "pixmaps/send16masknoshadow.bmp"
+send20                CICMAP  "pixmaps/send20.bmp"
+send20mask            CICMAP  "pixmaps/send20mask.bmp"
+addressbook16         CICMAP  "pixmaps/addressbook16.bmp"
+addressbook16mask     CICMAP  "pixmaps/addressbook16mask.bmp"
+addressbook20         CICMAP  "pixmaps/addressbook20.bmp"
+addressbook20mask     CICMAP  "pixmaps/addressbook20mask.bmp"
+favicon               ICON    "pixmaps/favicon.ico"

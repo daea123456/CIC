@@ -1,0 +1,6 @@
+usr/local/bin/CICcoin-qt usr/bin
+share/pixmaps/CICcoin32.xpm usr/share/pixmaps
+share/pixmaps/CICcoin16.xpm usr/share/pixmaps
+share/pixmaps/CICcoin128.png usr/share/pixmaps
+debian/CICcoin-qt.desktop usr/share/applications
+debian/CICcoin-qt.protocol usr/share/kde4/services/
